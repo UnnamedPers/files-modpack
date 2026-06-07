@@ -1,0 +1,9 @@
+{
+  "items": [
+    "minecraft:copper_boots"
+  ],
+  "patch": {
+    "damage": 0,
+    "max_damage": 143
+  }
+}

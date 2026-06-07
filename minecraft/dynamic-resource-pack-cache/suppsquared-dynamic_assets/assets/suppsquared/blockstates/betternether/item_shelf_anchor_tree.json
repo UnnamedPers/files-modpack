@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "suppsquared:block/item_shelves/betternether/anchor_tree"
+    },
+    "facing=east": {
+      "model": "suppsquared:block/item_shelves/betternether/anchor_tree",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "suppsquared:block/item_shelves/betternether/anchor_tree",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "suppsquared:block/item_shelves/betternether/anchor_tree",
+      "y": 270
+    }
+  }
+}

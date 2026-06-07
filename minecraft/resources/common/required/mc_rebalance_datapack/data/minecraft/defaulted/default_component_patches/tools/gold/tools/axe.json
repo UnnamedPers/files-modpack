@@ -1,0 +1,29 @@
+{
+  "items": [
+    "minecraft:golden_axe"
+  ],
+  "patch": {
+    "tool": {
+      "rules": [
+        {"blocks": "#minecraft:incorrect_for_gold_tool", "correct_for_drops": false},
+        {"blocks": "#mineable/axe", "speed": 8.0, "correct_for_drops": true}
+      ]
+    },
+    "attribute_modifiers": [
+      {
+        "type": "generic.attack_damage",
+        "slot": "mainhand",
+        "id": "base_attack_damage",
+        "amount": 9,
+        "operation": "add_value"
+      },
+      {
+        "type": "minecraft:generic.attack_speed",
+        "id": "minecraft:base_attack_speed",
+        "amount": -3.0999999046325684,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  }
+}

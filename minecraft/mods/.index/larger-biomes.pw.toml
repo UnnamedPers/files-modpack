@@ -1,0 +1,48 @@
+filename = 'larger-biomes-1.0.jar'
+name = 'Larger biomes'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'f794ab3d2f758cee769daf144fcaeeb6803fbddfb8fcce3df71d6910d70ad0e1742db16598f7c199107af6c20a1b1d676c13f35354794f91520eb2431c120566'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ky9qVx8u/versions/aggQncMa/larger-biomes-1.0.jar'
+
+[update.modrinth]
+mod-id = 'Ky9qVx8u'
+version = 'aggQncMa'

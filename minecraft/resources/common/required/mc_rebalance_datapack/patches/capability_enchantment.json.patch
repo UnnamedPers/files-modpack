@@ -1,0 +1,5 @@
+{
+	"op": "add",
+	"path": "/exclusive_set",
+	"value": "#mc_rebalance:exclusive_set/capability"
+}

@@ -1,0 +1,45 @@
+/difficulty peaceful
+/give @a aa4-atlas:antique_atlas
+/gamemode creative
+/gamemode creative @a
+/tp TakY @s
+/setblock ~ ~ ~2 end_portal
+/kill @a
+/setblock ~ ~ ~2 end_portal
+/kill @e
+/tp TakY @s
+/datapack
+/datapack list
+/gamemode creative
+/datapack list
+/reload
+/tick rate 1
+/tick freeze
+/tick unfreeze
+/function fromthefog:admin/sightings/lurking
+/tick rate 20
+/function fromthefog:admin/sightings/stalking
+/tick freeze
+/gamemode creative
+/function fromthefog:admin/fake_herobrine/animations/sprinting
+/function fromthefog:admin/fake_herobrine/face_player
+/tick rate 20
+/tick unfreeze
+/function fromthefog:admin/fake_herobrine/face_player
+/tick rate 1
+/function fromthefog:admin/config
+/tick rate 20
+/function fromthefog:admin/sightings/creeping
+/function fromthefog:admin/fake_herobrine/face_player
+/time set day
+/gamerule doDaylightCycle false
+/worldborder center 0 0
+/worldborder set 20000
+/chunky worldborder
+/chunky start
+/chunky progress
+/function vanilla_refresh:_settings
+/difficulty normal
+/function vanilla_refresh:_settings
+/time set day
+/difficulty peaceful

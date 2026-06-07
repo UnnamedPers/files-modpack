@@ -1,0 +1,5 @@
+{
+	"op": "add",
+	"path": "/supported_items",
+	"value": "#mc_rebalance:enchantable/mining_non_shovel"
+}

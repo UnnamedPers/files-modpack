@@ -1,0 +1,43 @@
+{
+  "items": [
+    "minecraft:golden_spear"
+  ],
+  "patch": {
+    "attribute_modifiers": [
+      {
+        "type": "generic.attack_damage",
+        "slot": "mainhand",
+        "id": "base_attack_damage",
+        "amount": 2.5,
+        "operation": "add_value"
+      },
+      {
+        "type": "minecraft:generic.attack_speed",
+        "id": "minecraft:base_attack_speed",
+        "amount": -3,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "kinetic_weapon": {
+      "damage_multiplier": 1,
+      "sound": "minecraft:item.spear.use",
+      "hit_sound": "minecraft:item.spear.hit",
+      "damage_conditions": {
+        "max_duration_ticks": 225,
+        "min_relative_speed": 4.6
+      },
+      "forward_movement": 0.38,
+      "delay_ticks": 11,
+      "dismount_conditions": {
+        "max_duration_ticks": 55,
+        "min_speed": 8.0
+      },
+      "knockback_conditions": {
+        "max_duration_ticks": 85,
+        "min_speed": 5.1
+      },
+      "hitbox_margin": 0.125
+    }
+  }
+}

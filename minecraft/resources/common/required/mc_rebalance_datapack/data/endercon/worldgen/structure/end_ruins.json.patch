@@ -1,0 +1,5 @@
+{
+	"op": "replace",
+	"path": "/biomes",
+	"value": "endercon:end_hallows"
+}

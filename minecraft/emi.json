@@ -1,0 +1,21 @@
+{
+  "favorites": [],
+  "lookup_history": [],
+  "craft_history": [
+    "bclib:tag_shield",
+    "minecraft:oak_planks",
+    "minecraft:torch",
+    "minecraft:stone_axe",
+    "minecraft:stick",
+    "minecraft:stone_pickaxe",
+    "mc_rebalance:paxel/wooden",
+    "minecraft:crafting_table"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

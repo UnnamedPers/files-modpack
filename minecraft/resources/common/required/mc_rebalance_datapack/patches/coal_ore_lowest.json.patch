@@ -1,0 +1,12 @@
+[
+	{
+		"op": "test",
+		"path": "/features/6/10",
+		"value": "minecraft:ore_coal_lower"
+	},
+	{
+		"op": "add",
+		"path": "/features/6/-",
+		"value": "mc_rebalance:ore_coal_lowest"
+	}
+]

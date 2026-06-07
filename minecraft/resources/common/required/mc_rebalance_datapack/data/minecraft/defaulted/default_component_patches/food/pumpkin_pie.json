@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:pumpkin_pie"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 6,
+      "saturation": 13.2
+    }
+  }
+}

@@ -1,0 +1,25 @@
+filename = 'detailab_compat-fabric-0.1.2+1.21.jar'
+name = 'Detail Armor Bar Compat'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.2+1.21'
+
+[download]
+hash = 'bf861500eb2d1908d1d0517a311bc429d429399b849c7926a737c72dc29271c800d5f69295a65028a1ef1c1609447b9fe4463d4d7f421eb207d6732973bd7fd7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/idGcORfw/versions/hAmuXzxO/detailab_compat-fabric-0.1.2%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'idGcORfw'
+version = 'hAmuXzxO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hAt6ty93'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'shieldsoundsbackport-1.0.0-neoforge-1.21.jar'
+name = 'Shield Sounds Backport'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.0-neoforge-1.21'
+
+[download]
+hash = 'a4fea42416465c280f0c24c35fd84feaac1d7779228ed26a6d4ddbcff13b9bbd680296789cab711b91e1b1687d15586ef107e62165f53e599cce1ac90454c515'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jfhwKST4/versions/Y8u6L51K/shieldsoundsbackport-1.0.0-neoforge-1.21.jar'
+
+[update.modrinth]
+mod-id = 'jfhwKST4'
+version = 'Y8u6L51K'

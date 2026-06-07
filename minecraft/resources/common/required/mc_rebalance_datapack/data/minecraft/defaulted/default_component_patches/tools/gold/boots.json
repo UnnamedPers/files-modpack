@@ -1,0 +1,15 @@
+{
+  "items": [
+    "minecraft:golden_boots"
+  ],
+  "patch": {
+    "max_damage": 275,
+    "attribute_modifiers": [{
+      "type": "generic.armor",
+      "slot": "feet",
+      "id": "golden_boots",
+      "amount": 2,
+      "operation": "add_value"
+    }]
+  }
+}

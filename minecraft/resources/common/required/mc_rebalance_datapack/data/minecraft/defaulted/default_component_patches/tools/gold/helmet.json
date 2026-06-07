@@ -1,0 +1,15 @@
+{
+  "items": [
+    "minecraft:golden_helmet"
+  ],
+  "patch": {
+    "max_damage": 245,
+    "attribute_modifiers": [{
+      "type": "generic.armor",
+      "slot": "head",
+      "id": "golden_helmet",
+      "amount": 2,
+      "operation": "add_value"
+    }]
+  }
+}

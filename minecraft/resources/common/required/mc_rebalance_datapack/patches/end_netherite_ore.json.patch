@@ -1,0 +1,7 @@
+[
+	{
+		"op": "add",
+		"path": "/features/7/-",
+		"value": "mc_rebalance:ore_ancient_debris_end"
+	}
+]

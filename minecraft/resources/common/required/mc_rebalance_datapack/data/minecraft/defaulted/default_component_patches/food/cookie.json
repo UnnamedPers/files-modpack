@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:cookie"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 1,
+      "saturation": 5.2
+    }
+  }
+}

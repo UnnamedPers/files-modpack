@@ -1,0 +1,23 @@
+{
+  "items": [
+    "minecraft:netherite_axe"
+  ],
+  "patch": {
+    "attribute_modifiers": [
+      {
+        "type": "generic.attack_damage",
+        "slot": "mainhand",
+        "id": "base_attack_damage",
+        "amount": 14,
+        "operation": "add_value"
+      },
+      {
+        "type": "minecraft:generic.attack_speed",
+        "id": "minecraft:base_attack_speed",
+        "amount": -3,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  }
+}
