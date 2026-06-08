@@ -1,2 +1,0 @@
-Minecraft Server
-79.76.63.143:25574

@@ -1,7 +1,0 @@
-{
-	"type":"minecraft:smithing_transform",
-	"base": {"item":"minecraft:golden_apple"},
-	"addition":{"item":"minecraft:nether_star"},
-	"template":{"item":"minecraft:dragon_breath"},
-	"result": {"id":"minecraft:enchanted_golden_apple"}
-}

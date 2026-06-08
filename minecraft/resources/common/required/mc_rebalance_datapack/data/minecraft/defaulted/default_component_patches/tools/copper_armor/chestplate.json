@@ -1,9 +1,0 @@
-{
-  "items": [
-    "minecraft:copper_chestplate"
-  ],
-  "patch": {
-    "damage": 0,
-    "max_damage": 176
-  }
-}

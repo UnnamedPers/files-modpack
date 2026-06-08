@@ -1,9 +1,0 @@
-{
-  "items": [
-    "minecraft:copper_helmet"
-  ],
-  "patch": {
-    "damage": 0,
-    "max_damage": 121
-  }
-}
