@@ -1,0 +1,18 @@
+filename = 'volumefix-1.2.0+1.21.jar'
+name = 'Volume Fix'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0+1.21'
+
+[download]
+hash = '7b51002618bef61c5a0210f9570365395f8dcc8e172a66d6373e81fae46de328bce931b9d66b0ab4caff0405885ff019cc9ace11d3479aeee9c978c99db9d74e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Iywe4QI4/versions/6UZ5mKrA/volumefix-1.2.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'Iywe4QI4'
+version = '6UZ5mKrA'

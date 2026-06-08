@@ -1,0 +1,555 @@
+{
+  "width": 10,
+  "height": 10,
+  "velocityRandomness": 0,
+  "caveDustEnabled": true,
+  "seaLevelCheck": true,
+  "superFlatStatus": false,
+  "upperLimit": 64.0,
+  "lowerLimit": -64.0,
+  "particleMultiplier": 1,
+  "listNumber": 0,
+  "particleMultiplierMultiplier": 10,
+  "list": [
+    {
+      "namespace": "minecraft",
+      "path": "rain"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dolphin"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "glow"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "heart"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "bubble_pop"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_dripstone_water"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "flame"
+    },
+    {
+      "namespace": "betterend",
+      "path": "smaragdant_particle"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sculk_charge_pop"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "item_snowball"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "nautilus"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "raid_omen"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "spore_blossom_air"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_obsidian_tear"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_lava"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dust"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "bubble_column_up"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_falling_obsidian_tear"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "block_marker"
+    },
+    {
+      "namespace": "betterend",
+      "path": "black_spore"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "gust_emitter_small"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_landing_obsidian_weep"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "happy_villager"
+    },
+    {
+      "namespace": "betterend",
+      "path": "geyser_particle"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "enchant"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "wax_on"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "campfire_signal_smoke"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "wax_off"
+    },
+    {
+      "namespace": "betterend",
+      "path": "jungle_spore"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sculk_soul"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_spore_blossom"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "damage_indicator"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "infested"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "ash"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "explosion"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "gust"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "electric_spark"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "gust_emitter_large"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dust_color_transition"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_dust"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "current_down"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dust_plume"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "item_cobweb"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "lava"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "reverse_portal"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "trial_spawner_detection"
+    },
+    {
+      "namespace": "betternether",
+      "path": "falling_obsidian_weep"
+    },
+    {
+      "namespace": "betterend",
+      "path": "firefly"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "bubble"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "landing_lava"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sneeze"
+    },
+    {
+      "namespace": "enchancement",
+      "path": "spark"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_water"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "landing_honey"
+    },
+    {
+      "namespace": "enchancement",
+      "path": "honey_bubble"
+    },
+    {
+      "namespace": "betterend",
+      "path": "tenanea_petal"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "soul"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "note"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "mycelium"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "explosion_emitter"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "underwater"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "small_gust"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "block"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "totem_of_undying"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "large_smoke"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "ominous_spawning"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "item_slime"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "instant_effect"
+    },
+    {
+      "namespace": "betterend",
+      "path": "amber_sphere"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "entity_effect"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_nectar"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "cherry_leaves"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "item"
+    },
+    {
+      "namespace": "betternether",
+      "path": "landing_obsidian_weep"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sculk_charge"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "elder_guardian"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "vault_connection"
+    },
+    {
+      "namespace": "betternether",
+      "path": "dripping_obsidian_weep"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "poof"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "scrape"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sonic_boom"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "sweep_attack"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "shriek"
+    },
+    {
+      "namespace": "betterend",
+      "path": "infusion"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "portal"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_lava"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dragon_breath"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "small_flame"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "egg_crack"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "angry_villager"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_dripping_obsidian_tear"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_falling_obsidian_weep"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "splash"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "crit"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "soul_fire_flame"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "witch"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "smoke"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "glow_squid_ink"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "spit"
+    },
+    {
+      "namespace": "betterend",
+      "path": "snowflake"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_honey"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "campfire_cosy_smoke"
+    },
+    {
+      "namespace": "betterend",
+      "path": "portal_sphere"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "snowflake"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "fishing"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "flash"
+    },
+    {
+      "namespace": "betterend",
+      "path": "glowing_sphere"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_dripping_obsidian_weep"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "white_smoke"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_water"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "squid_ink"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dust_pillar"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_honey"
+    },
+    {
+      "namespace": "betternether",
+      "path": "blue_landing_obsidian_tear"
+    },
+    {
+      "namespace": "enchancement",
+      "path": "brimstone_bubble"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "enchanted_hit"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "warped_spore"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_obsidian_tear"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "cloud"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "end_rod"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "trial_omen"
+    },
+    {
+      "namespace": "cavedust",
+      "path": "cave_dust"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "composter"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "landing_obsidian_tear"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "white_ash"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "crimson_spore"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_dripstone_water"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "effect"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "trial_spawner_detection_ominous"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "vibration"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "falling_dripstone_lava"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "dripping_dripstone_lava"
+    },
+    {
+      "namespace": "betterend",
+      "path": "sulphur_particle"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "firework"
+    }
+  ],
+  "newId": {
+    "namespace": "cavedust",
+    "path": "cave_dust"
+  }
+}

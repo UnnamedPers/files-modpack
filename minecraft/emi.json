@@ -1,0 +1,27 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:sophisticatedbackpacks:copper_backpack",
+    "item:sophisticatedbackpacks:backpack"
+  ],
+  "craft_history": [
+    "minecraft:bread",
+    "minecraft:wheat",
+    "minecraft:iron_pickaxe",
+    "minecraft:stick",
+    "minecraft:crafting_table",
+    "bclib:tag_shield",
+    "minecraft:oak_planks",
+    "minecraft:torch",
+    "minecraft:stone_axe",
+    "minecraft:stone_pickaxe",
+    "mc_rebalance:paxel/wooden"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

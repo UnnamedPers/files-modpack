@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:glow_berries"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 2,
+      "saturation": 8
+    }
+  }
+}

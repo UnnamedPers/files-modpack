@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description":"Made to have a higher load order than better keep inventory",
+    "pack_format": 48,
+    "supported_formats": [34, 48]
+  }
+}

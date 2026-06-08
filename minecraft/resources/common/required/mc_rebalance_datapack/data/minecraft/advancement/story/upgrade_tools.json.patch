@@ -1,0 +1,17 @@
+[
+	{
+		"op": "replace",
+		"path": "/parent",
+		"value": "mc_rebalance:story/wooden_paxel"
+	},
+	{
+		"op": "replace",
+		"path": "/display/icon/id",
+		"value": "minecraft:copper_pickaxe"
+	},
+	{
+		"op": "replace",
+		"path": "/criteria/stone_pickaxe/conditions/items/0/items",
+		"value": "minecraft:copper_pickaxe"
+	}
+]

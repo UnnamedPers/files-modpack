@@ -1,0 +1,15 @@
+{
+	"type": "emi:world_interaction",
+	"left": [
+		"item:minecraft:crafting_table"
+	],
+	"right": [
+		"item:minecraft:goat_horn",
+		"item:minecraft:copper_ingot",
+		"item:minecraft:copper_ingot",
+		"item:minecraft:copper_ingot"
+	],
+	"output": [
+		"item:horseman:copper_horn"
+	]
+}

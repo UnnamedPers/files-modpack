@@ -1,0 +1,29 @@
+filename = 'bclib-21.0.13.jar'
+name = 'BCLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '21.0.13'
+
+[download]
+hash = '93a5b45e4abcb27af6a8e8f662db9fd4115dfbb9e17adbce642f2217f5d09b48474d6b9e12b0673bdc663668e8d0d71b8fa23307c96c06176df55c090623a00c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BgNRHReB/versions/TxWM7AW8/bclib-21.0.13.jar'
+
+[update.modrinth]
+mod-id = 'BgNRHReB'
+version = 'TxWM7AW8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RiN8rDVs'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

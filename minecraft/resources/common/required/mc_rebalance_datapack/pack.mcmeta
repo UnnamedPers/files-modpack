@@ -1,0 +1,167 @@
+{
+  "pack": {
+    "description":"Modpack assets",
+    "pack_format": 48,
+    "supported_formats": [34, 48]
+  },
+  "patched": {
+    "format_version": 1,
+    "patch_targets": [
+      {
+        "pack_type": "server_data",
+        "patch": "coal_ore_lowest",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            {"pattern": "worldgen/biome/.*\\.json"}
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "nether_diamond_ore",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            "worldgen/biome/basalt_deltas.json",
+            "worldgen/biome/crimson_forest.json",
+            "worldgen/biome/nether_wastes.json",
+            "worldgen/biome/soul_sand_valley.json",
+            "worldgen/biome/warped_forest.json"
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "end_netherite_ore",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            "worldgen/biome/end_barrens.json",
+            "worldgen/biome/end_highlands.json",
+            "worldgen/biome/end_midlands.json",
+            "worldgen/biome/small_end_islands.json"
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "end_netherite_ore",
+        "targets": [{
+          "namespace": ["endercon"],
+          "path": [
+            {"pattern": "worldgen/biome/.*\\.json"}
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "add_stray",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            "worldgen/biome/frozen_peaks.json",
+            "worldgen/biome/jagged_peaks.json",
+            "worldgen/biome/snowy_slopes.json",
+            "worldgen/biome/grove.json",
+            "worldgen/biome/snowy_taiga.json",
+            "worldgen/biome/snowy_plains.json",
+            "worldgen/biome/ice_spikes.json"
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "utility_enchantment",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            "enchantment/aqua_affinity.json",
+            "enchantment/blast_protection.json",
+            "enchantment/fire_protection.json",
+            "enchantment/fortune.json",
+            "enchantment/infinity.json",
+            "enchantment/knockback.json",
+            "enchantment/loyalty.json",
+            "enchantment/lure.json",
+            "enchantment/projectile_protection.json",
+            "enchantment/silk_touch.json"
+          ]
+        }]
+      },
+      {
+        "pack_type": "server_data",
+        "patch": "capability_enchantment",
+        "targets": [{
+          "namespace": ["minecraft"],
+          "path": [
+            "enchantment/bane_of_arthropods.json",
+            "enchantment/breach.json",
+            "enchantment/channeling.json",
+            "enchantment/density.json",
+            "enchantment/depth_strider.json",
+            "enchantment/efficiency.json",
+            "enchantment/fire_aspect.json",
+            "enchantment/flame.json",
+            "enchantment/impaling.json",
+            "enchantment/looting.json",
+            "enchantment/luck_of_the_sea.json",
+            "enchantment/lunge.json",
+            "enchantment/multishot.json",
+            "enchantment/piercing.json",
+            "enchantment/power.json",
+            "enchantment/punch.json",
+            "enchantment/quick_charge.json",
+            "enchantment/respiration.json",
+            "enchantment/riptide.json",
+            "enchantment/smite.json",
+            "enchantment/soul_speed.json",
+            "enchantment/sweeping_edge.json",
+            "enchantment/swift_sneak.json",
+            "enchantment/wind_burst.json"
+          ]
+        }]
+      }
+    ]
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/wooden_"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/stone_(pickaxe|axe|hoe|shovel|sword|spear).json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/story/(mine_stone|iron_tools|form_obsidian).json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "enchantment/(protection|sharpness|power).json"
+      },
+      {
+        "namespace": "enderitemod",
+        "path": "recipe/enderite_spear.json"
+      },
+      {
+        "namespace": "enderitemod",
+        "path": "tags/item/enderite_items.json"
+      },
+      {
+        "namespace": "oreganized",
+        "path": "recipe/electrum_spear.json"
+      },
+      {
+        "namespace": "ender_dragon_loot",
+        "path": "recipe/dragon_spear.json"
+      },
+      {
+        "namespace": "dragonloot",
+        "path": "recipe/dragon_spear.json|tags/item/explosion_resistant.json"
+      }
+    ]
+  }
+}

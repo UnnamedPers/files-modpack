@@ -1,0 +1,37 @@
+filename = 'better-end-21.0.11.jar'
+name = 'BetterEnd'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '21.0.11'
+
+[download]
+hash = 'd3094b88202fca1ccc055e8429eac42eac1bd696a82ed650a9f1426cd5b28bd08e0af4d41664ed3fad10d8477c6da7c6be9d626a5664cfbc664844355c97c5b1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar'
+
+[update.modrinth]
+mod-id = 'gc8OEnCC'
+version = '4qhBEg6J'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RiN8rDVs'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BgNRHReB'
+type = 'REQUIRED'

@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:bread"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 3,
+      "saturation": 2.4
+    }
+  }
+}

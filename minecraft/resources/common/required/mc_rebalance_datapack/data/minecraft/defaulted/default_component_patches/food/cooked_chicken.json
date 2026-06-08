@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:cooked_chicken"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 5,
+      "saturation": 4
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+	"op": "add",
+	"path": "/supported_items",
+	"value": "#mc_rebalance:enchantable/horse_and_armor"
+}

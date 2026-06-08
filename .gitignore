@@ -1,0 +1,27 @@
+# Ignore local instance exports
+/mrpack/
+/*.mrpack
+/*.zip
+/.DS_Store
+
+# Ignore massive world data, generated terrain, and caches
+/minecraft/.bobby/
+/minecraft/crash-reports/
+/minecraft/data/
+/minecraft/debug/
+/minecraft/Distant_Horizons_server_data/
+/minecraft/downloads/
+/minecraft/dynamic-resource-pack-cache/
+/minecraft/logs/
+/minecraft/saves/
+/minecraft/screenshots/
+/minecraft/server-resource-packs/
+
+# Ignore temporary text files and crash logs
+/minecraft/*.log
+/minecraft/hs_err_pid*.log
+/minecraft/replay_pid*.log
+/minecraft/command_history.txt
+/minecraft/usercache.json
+/minecraft/usernamecache.json
+/minecraft/servers.dat_old

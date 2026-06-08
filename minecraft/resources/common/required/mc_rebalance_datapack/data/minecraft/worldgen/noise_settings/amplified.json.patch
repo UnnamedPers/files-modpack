@@ -1,0 +1,5 @@
+{
+	"op": "add",
+	"path": "/ore_veins_enabled",
+	"value": false
+}

@@ -1,0 +1,8 @@
+{
+  "tags": [
+    "defaulted:golden_tools"
+  ],
+  "patch": {
+    "minecraft:max_damage": 510
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "items": [
+    "minecraft:rabbit"
+  ],
+  "patch": {
+    "food": {
+      "nutrition": 2,
+      "saturation": 4
+    }
+  }
+}

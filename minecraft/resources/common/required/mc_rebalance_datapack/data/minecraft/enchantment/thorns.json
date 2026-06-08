@@ -1,0 +1,60 @@
+{
+  "anvil_cost": 8,
+  "description": {
+    "translate": "enchantment.minecraft.thorns"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "attacker",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:thorns",
+              "max_damage": {
+                "type": "minecraft:linear",
+                "base": 5.0,
+                "per_level_above_first": 0.5
+              },
+              "min_damage": {
+                "type": "minecraft:linear",
+                "base": 1.0,
+                "per_level_above_first": 1.0
+              }
+            }
+          ]
+        },
+        "enchanted": "victim",
+        "requirements": {
+          "chance": {
+            "type": "minecraft:enchantment_level",
+            "amount": {
+              "type": "minecraft:linear",
+              "base": 0.15,
+              "per_level_above_first": 0.60
+            }
+          },
+          "condition": "minecraft:random_chance"
+        }
+      }
+    ]
+  },
+  "exclusive_set": "#mc_rebalance:exclusive_set/capability",
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 20
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 20
+  },
+  "slots": [
+    "chest",
+    "body"
+  ],
+  "supported_items": "#mc_rebalance:enchantable/horse_and_chest_armor",
+  "weight": 1
+}

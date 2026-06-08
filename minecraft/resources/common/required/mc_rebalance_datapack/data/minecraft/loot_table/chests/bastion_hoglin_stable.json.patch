@@ -1,0 +1,18 @@
+[
+	{
+		"op": "remove",
+		"path": "/pools/3/entries/1"
+	},
+	{
+		"op": "remove",
+		"path": "/pools/0/entries/4"
+	},
+	{
+		"op": "remove",
+		"path": "/pools/0/entries/3"
+	},
+	{
+		"op": "remove",
+		"path": "/pools/0/entries/2"
+	}
+]

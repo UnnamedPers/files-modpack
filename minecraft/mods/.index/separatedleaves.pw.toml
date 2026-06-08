@@ -1,0 +1,21 @@
+filename = 'separatedleaves-2.6.1-neoforge-1.21.1.jar'
+name = 'Separated Leaves'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.1-neoforge-1.21.1'
+
+[download]
+hash = '17cc1b6345087165a655f3135b31edb48cb113178542bbdf9ad335bcc0a7b0f6ce422f355ce95b637256f1ab421457a1b91e74b316cddbba019860465de1ea27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xEu0FTVG/versions/dydDWiau/separatedleaves-2.6.1-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'xEu0FTVG'
+version = 'dydDWiau'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
