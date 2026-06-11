@@ -1,14 +1,34 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:sophisticatedbackpacks:backpack",
     "item:sophisticatedbackpacks:copper_backpack",
-    "item:sophisticatedbackpacks:backpack"
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-393218,\"sophisticatedcore:main_color\":-393218}",
+    "item:supplementaries:cannon",
+    "item:aa4-atlas:antique_atlas",
+    {
+      "type": "item",
+      "id": "minecraft:oak_stairs",
+      "amount": 14
+    }
   ],
   "craft_history": [
+    "sophisticatedbackpacks:backpack",
+    "minecraft:chest",
+    "minecraft:book",
+    "aa4-atlas:antique_atlas",
+    "minecraft:oak_boat",
+    "bclib:tag_compass",
+    "minecraft:golden_axe",
+    "minecraft:stick",
+    "minecraft:golden_boots",
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:golden_helmet",
+    "minecraft:diamond_chestplate",
     "minecraft:bread",
     "minecraft:wheat",
     "minecraft:iron_pickaxe",
-    "minecraft:stick",
     "minecraft:crafting_table",
     "bclib:tag_shield",
     "minecraft:oak_planks",

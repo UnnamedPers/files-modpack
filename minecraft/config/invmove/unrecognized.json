@@ -21,9 +21,18 @@
     "com.seibel.distanthorizons.common.wrappers.gui.classicConfig.DhConfigScreen_neoforge": true,
     "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
     "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "de.maxhenkel.voicechat.gui.CreateGroupScreen": true,
+    "de.maxhenkel.voicechat.gui.group.GroupScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "de.maxhenkel.gravestone.gui.ObituaryScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true
   },
   "hideBackground": {
-    "dev.emi.emi.screen.RecipeScreen": true
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true
   }
 }
