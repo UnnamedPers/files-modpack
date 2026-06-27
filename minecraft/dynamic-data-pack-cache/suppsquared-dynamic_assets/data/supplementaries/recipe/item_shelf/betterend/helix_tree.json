@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "betterend:helix_tree",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "id": "suppsquared:betterend/item_shelf_helix_tree",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

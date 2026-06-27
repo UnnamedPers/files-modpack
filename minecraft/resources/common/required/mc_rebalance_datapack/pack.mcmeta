@@ -139,10 +139,6 @@
         "path": "advancement/story/(mine_stone|iron_tools|form_obsidian).json"
       },
       {
-        "namespace": "minecraft",
-        "path": "enchantment/(protection|sharpness|power).json"
-      },
-      {
         "namespace": "enderitemod",
         "path": "recipe/enderite_spear.json"
       },

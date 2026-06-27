@@ -28,11 +28,30 @@
     "com.blamejared.controlling.client.NewKeyBindsScreen": true,
     "de.maxhenkel.gravestone.gui.ObituaryScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
-    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dev.imb11.sounds.gui.SoundsConfigScreen": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.pac.client.gui.MainMenu": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiMinimapOverlaysSettings": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
     "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
-    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.pac.client.gui.MainMenu": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true
   }
 }

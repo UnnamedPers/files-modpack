@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "minecraft:mangrove",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "id": "suppsquared:item_shelf_mangrove",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,3 +1,4 @@
+.git
 minecraft/.bobby
 minecraft/Distant_Horizons_server_data
 minecraft/command_history.txt
@@ -7,8 +8,10 @@ minecraft/debug
 minecraft/defaultconfigs
 minecraft/downloads
 minecraft/dynamic-resource-pack-cache
+minecraft/emi.json
 minecraft/hs_err_pid89242.log
 minecraft/moonlight-global-datapacks
+minecraft/options.txt
 minecraft/replay_pid89242.log
 minecraft/saves
 minecraft/schematics

@@ -1,0 +1,18 @@
+filename = 'open-parties-and-claims-neoforge-1.21.1-0.27.5.jar'
+name = 'Open Parties and Claims'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neoforge-1.21.1-0.27.5.jar'
+
+[download]
+hash = '72a83713417b82bcd66f4b1fbe0adaa5f43e363b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8230815
+project-id = 636608
